@@ -1,0 +1,3 @@
+﻿- Add Document.SaveText() overloads with Encoding parameter
+- Add COM Helpers to work with byte[] inputs (instead of streams)
+- ComHelpers - xml comments
